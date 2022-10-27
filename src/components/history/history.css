@@ -1,0 +1,52 @@
+.history{
+    flex: 1;
+    color: #555;
+    height: 270px;
+    color: #555;
+    margin-top: 15px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(208, 232, 232);
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0,0,0,0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201,201,201,0.47);
+}
+.up{
+    display: flex;
+    font-size: small;
+    align-items: center;
+    justify-content: space-between;
+    color: grey;
+}
+.month{
+    display: flex;
+    align-items: center;
+}
+.head{
+    font-size: 14px;
+    font-weight: 500;
+}
+.square{
+    margin-top:25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.leftside{
+    padding: 5px;
+    background-color: rgba(26, 31, 160, 0.541);
+    border-radius: 10px;
+    align-self: flex-end;
+    color: white;
+}
+.leftside,.rightsid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.median{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: -55px;
+}

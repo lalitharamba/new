@@ -1,0 +1,116 @@
+.rightside{
+    flex: 5;
+    width: 250px;
+    height: 100%;
+    margin-top: 15px;
+    border-radius: 10px;
+    color: rgb(62, 57, 57);
+    background-color: rgb(210, 231, 231);
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0,0,0,0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201,201,201,0.47);
+}
+.right-top{
+    height: 225px;
+}
+.right-icon{
+    color: azure;
+    margin-left: 210px;
+}
+.rt{
+    height: 50px;
+    background-color: blue;
+}
+.laaral{
+    margin-top: 1px;
+    margin-left: 90px;
+    border-radius: 25px;
+}
+.world{
+    align-items: center;
+    justify-content: center;
+
+    margin-left: 100px;
+}
+.rl,.top-pro,.top-follo{
+   margin-left: -6px;
+   margin-top: 5px;
+
+}
+.top-split{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    margin-top: 35px;
+}
+.right-middle{
+    height: 225px;
+}
+.middle-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.middle-title{
+    font-size: 15px;
+}
+.middle.bottom{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.middle-featuredChart{
+    width: 100px;
+    height: 100px;
+    margin-left: 75px;
+}
+.text{
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: 100px;
+}
+.texts{
+    margin-left: -25px;
+}
+.right-bottom{
+    height: 150px;
+}
+.squares{
+margin-top:15px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 25px;
+margin-left: 10px;
+
+}
+.right-median{
+    padding: 5px;
+    border-radius: 10px;
+    align-self: flex-end;
+    color: rgb(112, 102, 102);
+}
+.right-squares{
+    border-radius: 10px;
+    padding: 7px;
+    background-color: rgba(156, 157, 188, 0.541);
+    align-self: flex-end;
+    color: rgb(129, 108, 108);
+}
+.right-per{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+.percentage{
+    border-radius: 5px;
+    width: 25%;
+    background-color: rgb(173, 224, 191);
+}

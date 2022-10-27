@@ -1,0 +1,146 @@
+[
+    {
+        "title":"MENU"
+    },
+    {
+        "title": "Dashboard",
+        "icon": "bi bi-speedometer",
+        "childrens": [
+            {
+                "title": "Ecommerce",
+                
+                "path": "/"
+            },
+            {
+                "title": "Sass",
+                
+                "path": "/about"
+            },
+            {
+                "title":"Crypto",
+                "path":"/crypto"
+            }
+
+        
+        ]
+    },
+    {
+        "title":"APPLICATIONS"
+    },
+    {
+        "title":"Calender",
+        "icon":"bi bi-calendar"
+    },
+    {
+        "title":"Chat",
+        "icon":"bi bi-chat"
+    },
+    {
+        "title":"File Manager",
+        "icon":"bi bi-archive-fill"
+    },
+    {
+        "title":"Ecommerce",
+        "icon":"bi bi-shop"
+
+    },
+
+    {
+        "title": "Email",
+        "icon": "bi bi-envelope",
+        "childrens": [
+            {
+                "title": "Login",
+                "path": "/login"
+            },
+            {
+                "title": "Register",
+                "path": "/register"
+            },
+            {
+                "title": "Forgot Password",
+                "path": "/forgot-password"
+            },
+            {
+                "title": "Reset Password",
+                "path": "/reset-password"
+            }
+        ]
+    },
+    {
+        "title": "Invoices",
+        "icon": "bi bi-receipt",
+        "childrens": [
+            {
+                "title": "Profile",
+                "path": "/profile"
+            }]
+            
+    },
+    {
+        "title": "Projects",
+        "icon": "bi bi-box2",
+        "childrens": [
+            {
+                "title": "Project name",
+                "path": "/project-name"
+            }]
+            
+    },
+    {
+        "title": "Contacts",
+        "icon": "bi bi-wifi-2",
+        "childrens": [
+            {
+                "title": "Numbers",
+                "path": "/numbers"
+            }]
+            
+    },
+    {
+        "title":"LAYOUTS"
+    },
+    {
+        "title":"PAGES"
+    },
+    {
+        "title":"Authentication",
+        "icon":"bi bi-person-check"
+    },
+    {
+        "title": "Utility",
+        "icon": "bi bi-box",
+        "childrens": [
+            {
+                "title": "Usage",
+                "path": "/usage"
+            }]
+            
+    },
+    {
+        "title":"COMPONENTS"
+
+    },
+    {
+        "title": "UI Elements",
+        "icon": "bi bi-receipt",
+        "childrens": [
+            {
+                "title": "elements",
+                "path": "/elements"
+            }]
+            
+    },
+    {
+        "title": "Forms",
+        "icon": "bi bi-pencil-square",
+        "childrens": [
+            {
+                "title": "paper",
+                "path": "/paper"
+            }]
+            
+    }
+    
+    
+]
